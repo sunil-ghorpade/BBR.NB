@@ -1,4 +1,4 @@
-
+#GITHUB NAME : BBR.NB
 
 require 'open-uri'
 def just_fetch_page(url)
